@@ -1,4 +1,5 @@
 #Function decorator
+
 def decorator_func(func):
     
     def wrapper(*args, **kwargs):
