@@ -34,7 +34,6 @@ This repository contains solutions for a Python fundamentals assessment. The tas
 
 This repository contains only Python functions and a class. You can test them by importing them into a Python script or an interactive Python shell.
 
-
 ### Submitting Your Work
 1. **Create a Private Repository**: On GitHub, create a new private repository.
 2. **Push Your Code**:
