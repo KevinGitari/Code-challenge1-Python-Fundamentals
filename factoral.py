@@ -9,7 +9,7 @@ def calculate_factorial(n):
     return n * calculate_factorial(n - 1)
 
     
-if __name__ == "__main__":
+    if __name__ == "__main__":
     test_cases = [5, 0, 3, 7]
     for n in test_cases:
         result = calculate_factorial(n)
